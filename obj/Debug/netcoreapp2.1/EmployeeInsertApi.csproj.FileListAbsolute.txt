@@ -1,0 +1,14 @@
+C:\Project\EmployeeInsertApi\bin\Debug\netcoreapp2.1\EmployeeInsertApi.deps.json
+C:\Project\EmployeeInsertApi\bin\Debug\netcoreapp2.1\EmployeeInsertApi.runtimeconfig.json
+C:\Project\EmployeeInsertApi\bin\Debug\netcoreapp2.1\EmployeeInsertApi.runtimeconfig.dev.json
+C:\Project\EmployeeInsertApi\bin\Debug\netcoreapp2.1\EmployeeInsertApi.dll
+C:\Project\EmployeeInsertApi\bin\Debug\netcoreapp2.1\EmployeeInsertApi.pdb
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.csprojAssemblyReference.cache
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.csproj.CoreCompileInputs.cache
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.RazorAssemblyInfo.cache
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.RazorAssemblyInfo.cs
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.AssemblyInfoInputs.cache
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.AssemblyInfo.cs
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.RazorTargetAssemblyInfo.cache
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.dll
+C:\Project\EmployeeInsertApi\obj\Debug\netcoreapp2.1\EmployeeInsertApi.pdb
